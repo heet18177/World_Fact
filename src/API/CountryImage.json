@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "https://flagcdn.com/in.svg",
+    "country": "India",
+    "capital": "New Delhi",
+    "population": 1380004385,
+    "Information": "India is a South Asian country known for its rich cultural heritage, diverse languages, and being the world's largest democracy."
+  },
+  {
+    "id": 2,
+    "image": "https://flagcdn.com/us.svg",
+    "country": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331002651,
+    "Information": "The United States is a North American country and a global superpower known for its technological innovation and diverse culture."
+  },
+  {
+    "id": 3,
+    "image": "https://flagcdn.com/cn.svg",
+    "country": "China",
+    "capital": "Beijing",
+    "population": 1439323776,
+    "Information": "China is the world's most populous country, with a rapidly growing economy and a history dating back thousands of years."
+  },
+  {
+    "id": 4,
+    "image": "https://flagcdn.com/ru.svg",
+    "country": "Russia",
+    "capital": "Moscow",
+    "population": 145934462,
+    "Information": "Russia is the largest country in the world by land area, spanning Eastern Europe and northern Asia, known for its historical and geopolitical significance."
+  },
+  {
+    "id": 5,
+    "image": "https://flagcdn.com/br.svg",
+    "country": "Brazil",
+    "capital": "Brasília",
+    "population": 212559417,
+    "Information": "Brazil is the largest country in South America, famous for the Amazon rainforest, carnival festivals, and vibrant culture."
+  },
+  {
+    "id": 6,
+    "image": "https://flagcdn.com/gb.svg",
+    "country": "United Kingdom",
+    "capital": "London",
+    "population": 67886011,
+    "Information": "The United Kingdom is a country in northwestern Europe, consisting of England, Scotland, Wales, and Northern Ireland, known for its global influence."
+  },
+  {
+    "id": 7,
+    "image": "https://flagcdn.com/fr.svg",
+    "country": "France",
+    "capital": "Paris",
+    "population": 65273511,
+    "Information": "France is a Western European country renowned for its art, cuisine, fashion, historical landmarks like the Eiffel Tower, wine, and literature."
+  },
+  {
+    "id": 8,
+    "image": "https://flagcdn.com/de.svg",
+    "country": "Germany",
+    "capital": "Berlin",
+    "population": 83783942,
+    "Information": "Germany is a leading European nation known for its engineering, economy, and significant contributions to science and culture."
+  },
+  {
+    "id": 9,
+    "image": "https://flagcdn.com/jp.svg",
+    "country": "Japan",
+    "capital": "Tokyo",
+    "population": 126476461,
+    "Information": "Japan is an island nation in East Asia known for its technological advancements, traditional arts, and unique culture."
+  },
+  {
+    "id": 10,
+    "image": "https://flagcdn.com/ca.svg",
+    "country": "Canada",
+    "capital": "Ottawa",
+    "population": 37742154,
+    "Information": "Canada is the second-largest country in the world, known for its natural beauty, multiculturalism, and high quality of life."
+  },
+  {
+    "id": 11,
+    "image": "https://flagcdn.com/au.svg",
+    "country": "Australia",
+    "capital": "Canberra",
+    "population": 25499884,
+    "Information": "Australia is a country and continent known for its unique wildlife, outback landscapes, and vibrant cities like Sydney and Melbourne."
+  },
+  {
+    "id": 12,
+    "image": "https://flagcdn.com/it.svg",
+    "country": "Italy",
+    "capital": "Rome",
+    "population": 60461826,
+    "Information": "Italy is a European country with a rich cultural and historical heritage, famous for its cuisine, art, Roman architecture, fashion, and landscapes."
+  },
+  {
+    "id": 13,
+    "image": "https://flagcdn.com/mx.svg",
+    "country": "Mexico",
+    "capital": "Mexico City",
+    "population": 128932753,
+    "Information": "Mexico is a North American country known for its ancient civilizations, vibrant traditions, delicious cuisine, colorful festivals, and diverse landscapes."
+  },
+  {
+    "id": 14,
+    "image": "https://flagcdn.com/kr.svg",
+    "country": "South Korea",
+    "capital": "Seoul",
+    "population": 51269185,
+    "Information": "South Korea is a technologically advanced East Asian country known for K-pop, innovative industries, and rapid economic growth."
+  },
+  {
+    "id": 15,
+    "image": "https://flagcdn.com/sa.svg",
+    "country": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": 34813871,
+    "Information": "Saudi Arabia is a Middle Eastern country known for its vast deserts, oil reserves, rich culture, and being the birthplace of Islam."
+  }
+]

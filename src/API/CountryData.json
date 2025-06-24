@@ -1,0 +1,170 @@
+[
+  {
+    "Id": 1,
+    "CountryName": "India",
+    "Capital": "New Delhi",
+    "Population": 1420000000,
+    "IntarestingFact": "India is the world’s largest democracy."
+  },
+  {
+    "Id": 2,
+    "CountryName": "Japan",
+    "Capital": "Tokyo",
+    "Population": 125800000,
+    "IntarestingFact": "Japan has more pets than children."
+  },
+  {
+    "Id": 3,
+    "CountryName": "Canada",
+    "Capital": "Ottawa",
+    "Population": 39570000,
+    "IntarestingFact": "Canada has the longest coastline in the world."
+  },
+  {
+    "Id": 4,
+    "CountryName": "Brazil",
+    "Capital": "Brasília",
+    "Population": 203000000,
+    "IntarestingFact": "Brazil is home to the Amazon Rainforest, the largest in the world."
+  },
+  {
+    "Id": 5,
+    "CountryName": "Australia",
+    "Capital": "Canberra",
+    "Population": 26700000,
+    "IntarestingFact": "Australia is the only continent covered by a single country."
+  },
+  {
+    "Id": 6,
+    "CountryName": "Egypt",
+    "Capital": "Cairo",
+    "Population": 110000000,
+    "IntarestingFact": "Ancient Egyptians invented one of the earliest writing systems—hieroglyphics."
+  },
+  {
+    "Id": 7,
+    "CountryName": "France",
+    "Capital": "Paris",
+    "Population": 68000000,
+    "IntarestingFact": "France is the most visited country in the world."
+  },
+  {
+    "Id": 8,
+    "CountryName": "Iceland",
+    "Capital": "Reykjavik",
+    "Population": 375000,
+    "IntarestingFact": "Iceland has no standing army."
+  },
+  {
+    "Id": 9,
+    "CountryName": "South Korea",
+    "Capital": "Seoul",
+    "Population": 51700000,
+    "IntarestingFact": "South Korea has the fastest average internet speed in the world."
+  },
+  {
+    "Id": 10,
+    "CountryName": "Norway",
+    "Capital": "Oslo",
+    "Population": 5400000,
+    "IntarestingFact": "Norway introduced salmon sushi to Japan in the 1980s."
+  },
+  {
+    "Id": 11,
+    "CountryName": "Mexico",
+    "Capital": "Mexico City",
+    "Population": 126000000,
+    "IntarestingFact": "Mexico introduced chocolate to the world."
+  },
+  {
+    "Id": 12,
+    "CountryName": "New Zealand",
+    "Capital": "Wellington",
+    "Population": 5300000,
+    "IntarestingFact": "New Zealand was the first country to grant women the right to vote."
+  },
+  {
+    "Id": 13,
+    "CountryName": "Germany",
+    "Capital": "Berlin",
+    "Population": 83100000,
+    "IntarestingFact": "Germany is home to the world's largest beer festival, Oktoberfest."
+  },
+  {
+    "Id": 14,
+    "CountryName": "United States",
+    "Capital": "Washington, D.C.",
+    "Population": 331000000,
+    "IntarestingFact": "The U.S. has no official language at the federal level."
+  },
+  {
+    "Id": 15,
+    "CountryName": "Russia",
+    "Capital": "Moscow",
+    "Population": 144000000,
+    "IntarestingFact": "Russia spans 11 time zones, more than any other country."
+  },
+  {
+    "Id": 16,
+    "CountryName": "United Kingdom",
+    "Capital": "London",
+    "Population": 67000000,
+    "IntarestingFact": "The UK is made up of four countries: England, Scotland, Wales, and Northern Ireland."
+  },
+  {
+    "Id": 17,
+    "CountryName": "Italy",
+    "Capital": "Rome",
+    "Population": 59000000,
+    "IntarestingFact": "Rome has a sovereign country within it—the Vatican City."
+  },
+  {
+    "Id": 18,
+    "CountryName": "Spain",
+    "Capital": "Madrid",
+    "Population": 47000000,
+    "IntarestingFact": "Spain has the second-highest number of UNESCO World Heritage Sites."
+  },
+  {
+    "Id": 19,
+    "CountryName": "China",
+    "Capital": "Beijing",
+    "Population": 1410000000,
+    "IntarestingFact": "China is the world's most populous country."
+  },
+  {
+    "Id": 20,
+    "CountryName": "Switzerland",
+    "Capital": "Bern",
+    "Population": 8700000,
+    "IntarestingFact": "Switzerland has four national languages."
+  },
+  {
+    "Id": 21,
+    "CountryName": "Thailand",
+    "Capital": "Bangkok",
+    "Population": 70000000,
+    "IntarestingFact": "Thailand is the only Southeast Asian country never to have been colonized."
+  },
+  {
+    "Id": 22,
+    "CountryName": "Argentina",
+    "Capital": "Buenos Aires",
+    "Population": 46000000,
+    "IntarestingFact": "Argentina was the first country to use fingerprints in criminal investigations."
+  },
+  {
+    "Id": 23,
+    "CountryName": "South Africa",
+    "Capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+    "Population": 60000000,
+    "IntarestingFact": "South Africa has three capital cities, each serving a different purpose."
+  },
+  {
+    "Id": 24,
+    "CountryName": "Turkey",
+    "Capital": "Ankara",
+    "Population": 85000000,
+    "IntarestingFact": "Istanbul is the only city in the world located on two continents."
+  }
+]

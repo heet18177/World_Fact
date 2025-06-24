@@ -1,0 +1,317 @@
+body{
+  background-color: black;
+}
+
+h1,h2,h3,h4,div{
+  color: white;
+}
+
+p{
+  color: white;
+}
+
+/* Header css */
+
+.Container{
+  max-width: 1200px;
+  margin: auto;
+}
+
+.grid{
+  display: flex;
+  align-items: center;
+  gap: 700px;
+}
+
+li{
+  color: white;
+}
+
+.list{
+  display: flex;
+  gap: 30px;
+  list-style: none;
+}
+
+p:hover{
+  color: aquamarine;
+}
+
+header{
+  height: 5rem;
+  background-color: #202020;
+}
+
+/* Home css */
+.main-class{
+  max-width: 1200px;
+  margin-left: 160px;
+   
+}
+
+.child-1{
+  margin-top: 20px;
+  width: 395px;
+  height: 210px;
+}
+
+.child-1 p{
+  color: white;
+}
+
+.btn-1{
+ background-color: #202020;
+ color: white;
+ font-size: medium;
+ font-weight:600;
+ gap:10px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ cursor: pointer;
+ padding-left: 15px;
+ padding-right: 15px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ border: none;
+ border-radius: 10px;
+ 
+}
+
+.btn-1:hover{
+  border: solid 1px aquamarine;
+  transform: scale(105%);
+}
+
+.img{
+  margin-top: 50px;
+  width: 450px;
+  height: 200px;
+  border: none;
+  border-radius: 70px 70px 0px 0px;
+}
+
+.Parent{
+  display: flex;
+  gap: 150px;
+}
+
+/* About css */
+
+.section-class {
+  text-align: center;
+}
+
+.tital {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.first {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 50px;
+  padding: 20px 0;
+}
+
+.Cards {
+  background-color:  #D3D3D3;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.Cards:hover {
+  transform: translateY(-5px);
+}
+
+.card-1 {
+  text-align: left;
+  
+}
+
+.title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.card-1 p {
+  margin: 6px 0;
+  color: #555;
+}
+
+.card-1 span {
+  font-weight: 600;
+  color: #000;
+}
+
+/* Contact css */
+
+.form-main{
+  height: 500px;
+ 
+}
+
+.form-class{
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 100px;
+  padding-left: 100px;
+  border: solid;
+  border-radius: 5px;
+  background-color: #D3D3D3;
+}
+
+.btn-2{
+ background-color: #202020;
+ color: white;
+ font-size: medium;
+ font-weight:600;
+ padding-left: 164px;
+ padding-right: 164px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ border: none;
+ border-radius: 12px;
+ 
+}
+
+.btn-2:hover{
+  border: solid 1px white;
+  transform: scale(103%);
+}
+
+/* Country css */
+.top-contries{
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.api-div{
+  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 50px;
+  padding: 20px 0;
+  margin-left: 20px;
+
+}
+
+.flagImage{
+  width: 300px;
+  height: 150px;
+  border: none;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 10px;
+  border: solid 1px #D3D3D3;
+  border-radius: 10px;
+}
+
+.countryCard{
+  border: solid 1px #D3D3D3;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  transition: transform 0.2s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: white;
+  margin: 10px;
+  width: 300px;
+  height: 425px;
+  padding-top: 20px;
+  justify-items: center;
+  background-color: #202020;
+}
+
+.countryCard:hover {
+  transform: translateY(-5px);
+}
+
+.countryCard span {
+  font-weight: 600;
+  color: white;
+}
+
+.countryCard p {
+  color: white;
+}
+
+/* .footer-content{
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  display: flex;
+  gap: 405px;
+  background-color: #202020;
+  
+}
+
+
+.mail{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.phone{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+.copyright{
+  background-color: #202020;
+  color: white;
+  position: relative;
+  width: 100%;  
+}
+
+.footer-content p{
+  color: white;
+  
+} */
+
+.details{
+ background-color: #D3D3D3;
+ color: black;
+ font-size: medium;
+ font-weight:600;
+ padding-left: 15px;
+ padding-right: 15px;
+ padding-top: 8px;
+ padding-bottom: 8px;
+ cursor: pointer;
+ border-radius: 12px;
+ 
+}
+
+.details:hover{
+  border: solid 1px aquamarine;
+  transform: scale(105%);
+}
+
+.search{
+  margin-left: 855px;
+  margin-top: 15px;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 1px solid #D3D3D3;
+  border-radius: 12px;
+  background-color: #202020;
+  color: white;
+  font-size: medium;
+  font-weight: 500;
+  cursor: pointer;
+}
