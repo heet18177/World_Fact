@@ -1,7 +1,7 @@
 import { FaFacebook, FaInstagram, FaPhoneAlt } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { FiTwitter } from "react-icons/fi";
-import "./Footer.css"; // Assuming you have a CSS file for styling
+import "./footer.css"; // Assuming you have a CSS file for styling
 
 export const Footer = () => {
   return (
