@@ -1,6 +1,6 @@
 export const Contact = () => {
   const FormSubmit = (e) => {
-    e.preventDefault();
+    // e.preventDefault();
     const formData = new FormData(e.target);
     const FormInputData = Object.fromEntries(formData.entries());
     // console.log(FormInputData);
