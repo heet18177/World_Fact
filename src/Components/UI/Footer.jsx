@@ -15,7 +15,7 @@ export const Footer = () => {
             <FaPhoneAlt /> +91 1234567890
           </p>
         </div>
-        <div className="social-icons">
+        <div className="social-icons flex">
           <a
             href="https://facebook.com"
             target="_blank"

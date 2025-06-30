@@ -8,13 +8,12 @@ export const Contact = () => {
   };
 
   return (
-    <section className="Container section-class">
-      
-      <div className="form-main">
+    <section className="Container section-class ">
+      <div className="mb-5">
         <h1 className="tital">Contact Us</h1>
         <form onSubmit={FormSubmit}>
           <input
-            className="form-class"
+            className=" text-black bg-white sm:pr-50 pr-27  rounded-lg px-2 py-2"
             type="text"
             required
             placeholder="Enter your name"
@@ -25,7 +24,7 @@ export const Contact = () => {
           <br />
 
           <input
-            className="form-class"
+            className=" text-black bg-white sm:pr-50 pr-27  rounded-lg px-2 py-2"
             type="email"
             required
             placeholder="Enter your email"
@@ -36,7 +35,7 @@ export const Contact = () => {
           <br />
 
           <textarea
-            className="form-class"
+            className=" text-black bg-white sm:pr-54 pr-33  rounded-lg px-2 py-2"
             rows="10"
             required
             placeholder="Description"
@@ -46,7 +45,10 @@ export const Contact = () => {
           <br />
           <br />
 
-          <button className="btn-2" type="submit">
+          <button
+            className=" text-black sm:px-43 px-32 rounded-lg py-2 btn-2"
+            type="submit"
+          >
             Send
           </button>
         </form>

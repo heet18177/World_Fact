@@ -10,16 +10,15 @@ export const About = () => {
   );
 
   return (
-    <section className="Container section-class">
-      <h2 className="tital">
-        Here are the Interesting Facts
-        <br />
+    <section className="flex flex-col justify-center items-center">
+      <h2 className="px-2 sm:px-20 sm:text-3xl text-xl mt-5 font-semibold mb-5 flex flex-col items-center">
+        <p> Here are the Interesting Facts</p> {/* <br /> */}
         we're proud of...
       </h2>
 
       <div>
         <input
-          className="search"
+          className="search p-2 pr-20 sm:pr-50"
           type="text"
           value={searchTerm}
           autoComplete="off"
@@ -28,7 +27,7 @@ export const About = () => {
         />
       </div>
 
-      <div className="first">
+      <div className="grid md:grid-cols-3 grid-col-2 mt-7 mb-7 sm:px-20 px-5 gap-5">
         {FilteredCountry.length > 0 ? (
           FilteredCountry.map((con, index) => (
             <div className="Cards" key={index}>

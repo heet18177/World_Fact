@@ -16,11 +16,11 @@ function App() {
     {
       path: "/",
       element: <AppLayout />,
-      errorElement: <ErrorPage/>,
+      errorElement: <ErrorPage />,
       children: [
         {
           path: "/",
-          element: <Home />,
+          element: <Home  />,
         },
         {
           path: "about",
