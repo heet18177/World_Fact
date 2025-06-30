@@ -35,7 +35,7 @@ export const Contact = () => {
           <br />
 
           <textarea
-            className=" text-black bg-white sm:pr-54 pr-33  rounded-lg px-2 py-2"
+            className=" text-black bg-white sm:pr-54 pr-34  rounded-lg px-2 py-2"
             rows="10"
             required
             placeholder="Description"
